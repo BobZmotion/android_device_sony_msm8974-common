@@ -210,4 +210,7 @@
     <!-- SD card is hot-pluggable on this device -->
     <bool name="config_batterySdCardAccessibility">true</bool>
 
+    <!-- Doze -->
+    <bool name="config_enableAutoPowerModes">true</bool>
+    
 </resources>
